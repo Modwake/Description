@@ -47,5 +47,5 @@ The purpose of this github organization is to store a collection of mods for the
 
 Let us know at any of the following locations:
 
-<a href="https://discord.gg/edrmYUN"><img src="Icons\discord.png" alt="Discord" class="icon" target="_blank"></a>
-<a href="mailto:modwake@gmail.com"><img src="Icons\email.png" alt="Email" class="icon" target="_blank"></a>
+<a href="https://discord.gg/edrmYUN" target="_blank"><img src="Icons\discord.png" alt="Discord" class="icon"></a>
+<a href="mailto:modwake@gmail.com" target="_blank"><img src="Icons\email.png" alt="Email" class="icon"></a>
