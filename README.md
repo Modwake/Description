@@ -6,4 +6,4 @@ The purpose of this github organization is to store a collection of mods, for th
 
 Let us know at any of the following sources:
 
-<img src="Icons\discord.png" style="width:50px">
+<a href="https://discord.gg/edrmYUN"><img src="Icons\discord.png" style="width:50px"></a>
