@@ -6,3 +6,8 @@
 	padding: 14px;
 	border: 2px solid #000000;
 }
+
+.linkBtn {
+	width:25px;
+	background-image: url('Icon/linkBtn.png');
+}

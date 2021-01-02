@@ -15,7 +15,7 @@ The purpose of this github organization is to store a collection of mods for the
 
 		<div style="display:inline-block;">
 			<a href="https://github.com/Modwake/customEliteBadges">Link to Repo</a>
-			<a href="https://github.com/Modwake/customEliteBadges/releases/"><img src="Icons\linkBtn.png" alt="Latest release" class="icon"></a>
+			<a href="https://github.com/Modwake/customEliteBadges/releases/"><img src="Icons\linkBtn.png" alt="Latest release" class="linkBtn"></a>
 		</div>
 
 		<div>
