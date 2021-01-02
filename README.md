@@ -3,7 +3,7 @@
 		width:50px;
 	}
 	.project {
-
+		
 	}
 </style>
 
@@ -15,12 +15,19 @@ The purpose of this github organization is to store a collection of mods, for th
 
 - N/A
 
-## Compplete projects
+## Complete projects
 
 <details>
 	<summary>Custom Elite Badges</summary>
-	<a href="https://github.com/Modwake/customEliteBadges">Link to Repo</a>
-	Allows custom elite badges based on level.
+
+		<div>
+			<a href="https://github.com/Modwake/customEliteBadges">Link to Repo</a>
+		</div>
+
+		<div>
+			Allows custom elite badges based on level.
+		</div>
+
 </details>
 
 ## Got any mod suggestions?
