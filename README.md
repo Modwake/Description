@@ -12,16 +12,13 @@ The purpose of this github organization is to store a collection of mods for the
 
 <details class="project">
 	<summary>Custom Elite Badges</summary>
-
 		<div style="display:inline-block;">
 			<a href="https://github.com/Modwake/customEliteBadges">Link to Repo</a>
 			<a href="https://github.com/Modwake/customEliteBadges/releases/"><img src="Icons\linkBtn.png" alt="Latest release" class="linkBtn"></a>
 		</div>
-
 		<div>
 			Allows custom elite badges based on level.
 		</div>
-
 </details>
 
 ## Got any mod suggestions?

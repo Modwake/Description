@@ -1,10 +1,15 @@
 .icon {
 	width:50px;
 }
+
 .project {
 	border-radius: 25px;
 	padding: 14px;
 	border: 2px solid #000000;
+}
+
+details > summary {
+	cursor: pointer;
 }
 
 .linkBtn {
