@@ -1,4 +1,5 @@
 <link href="custom.css" rel="stylesheet" type="text/css" />
+<link rel="icon" href="Icons/webIcon.png">
 
 # Welcome to Modwake!
 
