@@ -11,7 +11,7 @@ The purpose of this github organization is to store a collection of mods for the
 
 <details class="project">
 	<summary>Custom Elite Badges</summary>
-		<a href="https://github.com/Modwake/customEliteBadges" target="_blank">Link to Repo</a>
+		<a href="https://github.com/Modwake/customEliteBadges" target="_blank">Link to Repo</a><br>
 		<a href="https://github.com/Modwake/customEliteBadges/releases/latest/" target="_blank">Latest Release</a>
 		<div>
 			Allows custom elite badges based on level.
@@ -20,7 +20,7 @@ The purpose of this github organization is to store a collection of mods for the
 
 <details class="project">
 	<summary>Custom Flags</summary>
-		<a href="https://github.com/Modwake/customFlags" target="_blank">Link to Repo</a>
+		<a href="https://github.com/Modwake/customFlags" target="_blank">Link to Repo</a><br>
 		<a href="https://github.com/Modwake/customFlags/releases/latest" target="_blank">Latest Release</a>
 		<div>
 			Allows you to set a custom flag for yourself and others.
@@ -29,7 +29,7 @@ The purpose of this github organization is to store a collection of mods for the
 
 <details class="project">
 	<summary>Main Menu Character Rotator</summary>
-		<a href="https://github.com/Modwake/MainMenuCharacterRotator" target="_blank">Link to Repo</a>
+		<a href="https://github.com/Modwake/MainMenuCharacterRotator" target="_blank">Link to Repo</a><br>
 		<a href="https://github.com/Modwake/MainMenuCharacterRotator/releases/latest/" target="_blank">Latest Release</a>
 		<div>
 			Lets you rotate the character in the main menu.
