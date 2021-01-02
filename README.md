@@ -19,7 +19,7 @@ The purpose of this github organization is to store a collection of mods for the
 
 ## Complete projects
 
-<details>
+<details class="project">
 	<summary>Custom Elite Badges</summary>
 
 		<div>
