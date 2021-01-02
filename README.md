@@ -41,4 +41,5 @@ The purpose of this github organization is to store a collection of mods for the
 Let us know at any of the following locations:
 
 <a href="https://discord.gg/edrmYUN">Discord</a>
+
 <a href="mailto:modwake@gmail.com">Email</a>
