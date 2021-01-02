@@ -5,4 +5,4 @@ The purpose of this github organization is to store a collection of mods, for th
 ## Got any mod suggestions?
 
 Let us know at any of the following sources:
-![Discord](\Icons\discord.png){width=50px}
+![Discord](Icons\discord.png){width=50px}
