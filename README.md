@@ -3,13 +3,15 @@
 		width:50px;
 	}
 	.project {
-		
+
 	}
 </style>
 
+<link href="custom.css" rel="stylesheet" type="text/css" />
+
 # Welcome to Modwake!
 
-The purpose of this github organization is to store a collection of mods, for the game [Blackwake](http://www.blackwake.com/). Each mod will contain the required information on how to install and use it.
+The purpose of this github organization is to store a collection of mods for the game [Blackwake](http://www.blackwake.com/). Each mod will contain the required information on how to install and use it.
 
 ## Currently active projects
 
