@@ -7,3 +7,4 @@ The purpose of this github organization is to store a collection of mods, for th
 Let us know at any of the following sources:
 
 <a href="https://discord.gg/edrmYUN"><img src="Icons\discord.png" style="width:50px"></a>
+<a href="mailto:modwake@gmail.com"><img src="Icons\email.png" style="width:50px"></a>
