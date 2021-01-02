@@ -2,6 +2,9 @@
 	.icon {
 		width:50px;
 	}
+	.project {
+
+	}
 </style>
 
 # Welcome to Modwake!
@@ -14,7 +17,11 @@ The purpose of this github organization is to store a collection of mods, for th
 
 ## Compplete projects
 
-- [Custom Elite Badges](https://github.com/Modwake/customEliteBadges)
+<details>
+	<summary>Custom Elite Badges</summary>
+	<a href="https://github.com/Modwake/customEliteBadges">Link to Repo</a>
+	Allows custom elite badges based on level.
+</details>
 
 ## Got any mod suggestions?
 
