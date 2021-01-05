@@ -5,7 +5,9 @@ The purpose of this github organization is to store a collection of mods for the
 
 ## Currently active projects
 
-- N/A
+- Porting over from alternion into standalone mods
+   - Sail skins by steamID
+   - Badges by steamID
 
 ## Complete projects
 
