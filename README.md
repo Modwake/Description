@@ -54,7 +54,7 @@ The purpose of this github organization is to store a collection of mods for the
 		</div>
 </details>
 
-<details>
+<details class="project">
 	<summary>Timer Adjuster</summary>
 		<a href="https://github.com/Modwake/Timer-Adjuster" target="_blank">Link to Repo</a><br>
 		<a href="https://github.com/Modwake/Timer-Adjuster/releases/latest/" target="_blank">Latest Release</a>
