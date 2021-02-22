@@ -1,7 +1,14 @@
 # Modwake
 
 Welcome to Modwake!
-The purpose of this github organization is to store a collection of mods for the game [Blackwake](http://www.blackwake.com/). Each mod will contain the required information on how to install and use it.
+The purpose of this github organization is to store a collection of mods for the game [Blackwake](http://www.blackwake.com/).
+
+## How to Setup
+
+- Copy **0Harmony.dll**, **Assembly-CSharp.dll** (overwrite the existing one) and **BWModLoader.dll** into your **Blackwake_Data/Managed/** folder.
+- Run the game, it should generate a mods folder in Blackwake_Data/Managed/Mods
+- Copy the **mod.dll** file into the mods folder (as well as any other setup specified)
+- Play!
 
 ## Currently active projects
 
