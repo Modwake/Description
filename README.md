@@ -18,7 +18,7 @@ The purpose of this github organization is to store a collection of mods for the
 
 ## Complete projects
 
-<details class="project">
+<details>
 	<summary>Custom Elite Badges</summary>
 		<a href="https://github.com/Modwake/customEliteBadges" target="_blank">Link to Repo</a><br>
 		<a href="https://github.com/Modwake/customEliteBadges/releases/latest/" target="_blank">Latest Release</a>
@@ -27,7 +27,7 @@ The purpose of this github organization is to store a collection of mods for the
 		</div>
 </details>
 
-<details class="project">
+<details>
 	<summary>Custom Flags</summary>
 		<a href="https://github.com/Modwake/customFlags" target="_blank">Link to Repo</a><br>
 		<a href="https://github.com/Modwake/customFlags/releases/latest" target="_blank">Latest Release</a>
@@ -36,12 +36,21 @@ The purpose of this github organization is to store a collection of mods for the
 		</div>
 </details>
 
-<details class="project">
+<details>
 	<summary>Main Menu Character Rotator</summary>
 		<a href="https://github.com/Modwake/MainMenuCharacterRotator" target="_blank">Link to Repo</a><br>
 		<a href="https://github.com/Modwake/MainMenuCharacterRotator/releases/latest/" target="_blank">Latest Release</a>
 		<div>
 			Lets you rotate the character in the main menu.
+		</div>
+</details>
+
+<details>
+	<summary>Timer Adjuster</summary>
+		<a href="https://github.com/Modwake/Timer-Adjuster" target="_blank">Link to Repo</a><br>
+		<a href="https://github.com/Modwake/Timer-Adjuster/releases/latest/" target="_blank">Latest Release</a>
+		<div>
+			Allows the timer to be moved on the screen.
 		</div>
 </details>
 
